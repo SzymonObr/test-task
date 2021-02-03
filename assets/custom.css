@@ -51,7 +51,7 @@ p {
 
 }
 .button-position {
-  padding: 35px 0 70px 0;
+  padding: 35px 0 69px 0;
   align-self: flex-end;
 }
 @media (max-width:1124px) {
