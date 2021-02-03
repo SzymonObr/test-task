@@ -49,6 +49,7 @@ p {
   outline: none;
   width: 135px;
   height: 47px;
+  font: normal normal bold 16px/26px Roboto;
 
 }
 .button-position {
